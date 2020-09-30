@@ -1,4 +1,4 @@
-package com.yffd.jecap.admin.domain.sys.user.entity;
+package com.yffd.jecap.admin.domain.user.entity;
 
 import com.yffd.jecap.common.base.entity.BaseEntity;
 import lombok.Data;

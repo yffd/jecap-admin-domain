@@ -1,7 +1,7 @@
-package com.yffd.jecap.admin.domain.sys.user.service;
+package com.yffd.jecap.admin.domain.user.service;
 
-import com.yffd.jecap.admin.domain.sys.user.entity.SysUser;
-import com.yffd.jecap.admin.domain.sys.user.repo.ISysUserRepo;
+import com.yffd.jecap.admin.domain.user.entity.SysUser;
+import com.yffd.jecap.admin.domain.user.repo.ISysUserRepo;
 import com.yffd.jecap.common.base.repository.IBaseRepository;
 import com.yffd.jecap.common.base.service.AbstractBaseService;
 import org.springframework.beans.factory.annotation.Autowired;
